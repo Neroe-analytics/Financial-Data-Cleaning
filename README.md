@@ -33,6 +33,7 @@ Improved reporting accuracy: Ensured 100% of amount fields are valid for reconci
 Prepared data for analysis: Final dataset ready for expense tracking and variance analysis
 
 
-## Files in this repo
-- `raw_financial_transactions.csv` - Original dirty data
-- `cleaned_financial_transactions.csv` - Final cleaned data  
+## Files in this Repository
+- `raw_financial_transactions.csv` - Original dataset with duplicates and inconsistencies
+- `cleaned_financial_transactions.csv` - Final cleaned dataset ready for reporting
+- `layoffs_cleaning.sql` - SQL scripts for data cleaning and validation 
