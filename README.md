@@ -31,3 +31,8 @@ company names and industry fields for consistent reporting
 Reduced data errors: Cleaned dataset from 2,361 rows to 2,289 accurate records
 Improved reporting accuracy: Ensured 100% of amount fields are valid for reconciliation
 Prepared data for analysis: Final dataset ready for expense tracking and variance analysis
+
+
+## Files in this repo
+- `raw_financial_transactions.csv` - Original dirty data
+- `cleaned_financial_transactions.csv` - Final cleaned data  
